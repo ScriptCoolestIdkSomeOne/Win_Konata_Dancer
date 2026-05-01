@@ -8,7 +8,7 @@ Direct2D Edition
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none; position: relative;">
   <tr>
     <td style="vertical-align: top; padding: 0;">
-      <img src="da.png" width="200" alt="da" style="float: right; margin: 0 0 20px 20px;">
+      <img src="knt_64x64.png" width="200" alt="da" style="float: right; margin: 0 0 20px 20px;">
       
       <h1>test</h1>
       <p>test</p>
