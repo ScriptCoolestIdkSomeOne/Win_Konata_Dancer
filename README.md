@@ -29,4 +29,5 @@ Direct2D Edition
   </tr>
 </table>
 
-<img width="731" height="38" alt="изображение" src="https://github.com/user-attachments/assets/e519c55f-03ad-475e-896f-ed451eedebb6" />
+<img width="1919" height="41" alt="изображение" src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" />
+
