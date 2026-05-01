@@ -4,3 +4,27 @@ Direct2D Edition
 <div style="margin-bottom: 10px;">
     <img src="Konatafireh.gif" alt="Konata Dancing" style="max-width: 200px; border-radius: 15px;">
   </div>
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border: none; position: relative;">
+  <tr>
+    <td style="vertical-align: top; padding: 0;">
+      <img src="da.png" width="200" alt="da" style="float: right; margin: 0 0 20px 20px;">
+      
+      <h1>test</h1>
+      <p>test</p>
+      
+      <h2>da</h2>
+      <ul><li>test</li></ul>
+      
+      <h2>test</h2>
+      <ul><li>test</li></ul>
+      
+      <h2>test</h2>
+      <ul>
+        <li>da: <a href="#">@test</a></li>
+        <li>da: <a href="#">test</a></li>
+        <li>da: <a href="#">test.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
