@@ -29,6 +29,14 @@ Direct2D Edition
   </tr>
 </table>
 
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border: none; margin: 0; padding: 0;">
+  <tr>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" width="100%" alt="da" style="display: block; width: 100%; height: auto; margin: 0;">
+    </td>
+  </tr>
+</table>
 <div style="margin: -32px -32px 0 -32px; background: #yourcolor;">
   <img src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" width="100%" style="display: block; width: 100vw; max-width: 100%;">
 </div>
