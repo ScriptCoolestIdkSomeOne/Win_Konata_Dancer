@@ -31,3 +31,6 @@ Direct2D Edition
 
 <img width="1919" height="41" alt="изображение" src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" />
 
+<div style="margin: -32px -32px 0 -32px; background: #yourcolor;">
+  <img src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" width="100%" style="display: block; width: 100vw; max-width: 100%;">
+</div>
