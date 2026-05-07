@@ -29,9 +29,6 @@ Direct2D Edition
   </tr>
 </table>
 
-<div style="position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw;">
-  <img src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" width="100%" alt="da" style="display: block; width: 100%;">
-</div>
 <div style="margin: -32px -32px 0 -32px; background: #yourcolor;">
   <img src="https://github.com/user-attachments/assets/5e074b8a-40f9-4ceb-aae1-296dfd699935" width="100%" style="display: block; width: 100vw; max-width: 100%;">
 </div>
