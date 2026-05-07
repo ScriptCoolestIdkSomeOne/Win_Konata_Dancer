@@ -1,6 +1,8 @@
 # Win_Konata_Dancer
 Direct2D Edition
 
+so the main shit in this version is that now we have skins, oh and a lot of optimization
+
 <div style="margin-bottom: 10px;">
     <img src="Konatafireh.gif" alt="Konata Dancing" style="max-width: 200px; border-radius: 15px;">
   </div>
