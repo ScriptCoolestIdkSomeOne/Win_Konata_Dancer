@@ -6,6 +6,8 @@ latest update uh 09.05: halfway through
 i need to just improve menu and some of the existing funcs
 forgot to mention this cool project too: https://github.com/konacoded/Konata-Dancer-Remake
 
+IM GONNA STOP BEING A LAZY FUCK
+
 <div style="margin-bottom: 10px;">
     <img src="Konatafireh.gif" alt="Konata Dancing" style="max-width: 200px; border-radius: 15px;">
   </div>
